@@ -1,0 +1,15 @@
+{
+  "categories": ["All", "Electronics", "Fashion", "Books", "Home"],
+  "products": [
+    {"id":1,"name":"Wireless Earbuds","category":"Electronics","price":1999,"emoji":"🎧","desc":"Bluetooth 5.0 earbuds with 20 hour battery."},
+    {"id":2,"name":"Smart Watch","category":"Electronics","price":3499,"emoji":"⌚","desc":"Fitness tracking, heart rate and notifications."},
+    {"id":3,"name":"Power Bank 10000mAh","category":"Electronics","price":1299,"emoji":"🔋","desc":"Fast charging, dual USB output."},
+    {"id":4,"name":"Cotton T-Shirt","category":"Fashion","price":499,"emoji":"👕","desc":"Soft 100% cotton, regular fit."},
+    {"id":5,"name":"Running Shoes","category":"Fashion","price":2499,"emoji":"👟","desc":"Lightweight shoes with cushioned sole."},
+    {"id":6,"name":"Backpack","category":"Fashion","price":1199,"emoji":"🎒","desc":"Water resistant, fits a 15 inch laptop."},
+    {"id":7,"name":"JavaScript Basics","category":"Books","price":399,"emoji":"📘","desc":"Beginner friendly guide to modern JavaScript."},
+    {"id":8,"name":"Web Design Handbook","category":"Books","price":549,"emoji":"📗","desc":"HTML, CSS and responsive design explained."},
+    {"id":9,"name":"Desk Lamp","category":"Home","price":799,"emoji":"💡","desc":"LED lamp with adjustable brightness."},
+    {"id":10,"name":"Coffee Mug Set","category":"Home","price":599,"emoji":"☕","desc":"Set of 4 ceramic mugs."}
+  ]
+}
