@@ -1,7 +1,7 @@
 # Smart Shopping Website Portal
 
-**Subject:** Web Technology 1 (AD124PE507.1) | **CCE-5:** Unit V Mini Project | **Roll No:** 51
-**Repository name:** WT_CCE5_51_SmartShoppingPortal
+**Subject:** Web Technology 1 (AD124PE507.1) | **CCE-5:** Unit V Mini Project | **Roll No:** 48
+**Repository name:** WT_CCE5_48_SmartShoppingPortal
 
 ## Problem Statement
 Small shops and students need a simple online store front-end to browse products, add them to a cart and place an order. This portal is a single page application (SPA) built with HTML, CSS and JavaScript only. Users are customers who want to shop quickly without page reloads.
